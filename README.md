@@ -1,1 +1,1 @@
-# v2fly-cf
+# vfly
